@@ -1,7 +1,5 @@
-# joycejoin
-wow :)
-epic shit fuck
-pussy anus shit
+# JoyceJoin.tk
+Idioten van Wolfsbos Groene Driehoek zitten rond te kutten op GitHub.
 
 
 
