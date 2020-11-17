@@ -1,4 +1,20 @@
 <html>
+  <style>
+    @keyframes spinning{
+      0% {transform: rotateY(0deg);}
+      100% {transform: rotateY(2880deg);}
+    }
+    body{
+      background-image: url('joycebg.png');
+    }
+    img.joyce{
+      animation: spinning 1s infinite;
+      transition: linear;
+      transform: rotateY(0deg);
+    }
+  </style>
 <head></head>
-<body><p>Het Werkt :)</p></body>
+<body>
+  <img class="joyce" src="joyce.png">
+</body>
 </html>
